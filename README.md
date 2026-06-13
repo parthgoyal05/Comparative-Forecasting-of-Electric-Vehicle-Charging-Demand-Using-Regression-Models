@@ -1,8 +1,20 @@
-# Comparative Forecasting of Electric Vehicle Charging Demand Using Regression Models
+<div align = "center">
+<h1>Comparative Forecasting of Electric Vehicle Charging Demand Using Regression Models</h1>
+</div>
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](./Paper.pdf)
-[![Notebook](https://img.shields.io/badge/Notebook-Colab-orange)](./EV_Charging_Demand_Forecasting.ipynb)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/venkatsairo4899/ev-charging-station-usage-of-california-city)
+<p align="center">
+  <a href="./Paper.pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper">
+  </a>
+
+  <a href="./EV_Charging_Demand_Forecasting.ipynb">
+    <img src="https://img.shields.io/badge/Notebook-Colab-orange" alt="Notebook">
+  </a>
+
+  <a href="https://www.kaggle.com/datasets/venkatsairo4899/ev-charging-station-usage-of-california-city">
+    <img src="https://img.shields.io/badge/Dataset-Kaggle-blue" alt="Dataset">
+  </a>
+</p>
 
 <div align = "center">
 <b>Parth Goyal¹, Ria Chadha², Anuradha Tomar¹</b> <br>
