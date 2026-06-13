@@ -1,12 +1,14 @@
 # Comparative Forecasting of Electric Vehicle Charging Demand Using Regression Models
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](./Comparative Forecasting of Electric Vehicle Charging Demand Using Regression Models.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](./Paper.pdf)
 [![Notebook](https://img.shields.io/badge/Notebook-Colab-orange)](./EV_Charging_Demand_Forecasting.ipynb)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/venkatsairo4899/ev-charging-station-usage-of-california-city)
 
-**Parth Goyal¹, Ria Chadha², Anuradha Tomar¹**
-¹ Instrumentation and Control, ² Information Technology
+<div align = "center">
+<b>Parth Goyal¹, Ria Chadha², Anuradha Tomar¹</b> <br>
+¹ Instrumentation and Control, ² Information Technology <br>
 Netaji Subhas University of Technology, New Delhi, India
+</div>
 
 ---
 
